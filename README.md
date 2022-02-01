@@ -2,4 +2,4 @@
 - 👀 I’m interested in Music, Programming, Football and Running and I ♥️ emojis.
 - 🌱 I’m currently learning C at Aalborg University in Denmark
 - 💞️ I’m looking to collaborate on everything
-- 📫 You can reach me on my mail strengere.vaerdi.0a@icloud.com
+- 📫 You can reach me on my mail safe.tea7364@livoni.me
