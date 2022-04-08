@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sebastian Livoni
 - 👀 I’m interested in Music, Programming, Football and Running and I ♥️ emojis.
-- 🌱 I’m currently learning C at Aalborg University in Denmark
+- 🌱 I’m currently learning JavaScript and NodeJS at Aalborg University in Denmark
 - 💞️ I’m looking to collaborate on everything
 - 📫 You can reach me on my mail seb@livoni.me
