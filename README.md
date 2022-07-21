@@ -25,4 +25,4 @@ me.sayHi()
 ## Links
 - **Website:** https://livoni.me
 - **Blog:** https://livoni.me/blog
-- **Twitter:** [@sebastianlivoni]https://twitter.com/sebastianlivoni
+- **Twitter:** [@sebastianlivoni](https://twitter.com/sebastianlivoni)
