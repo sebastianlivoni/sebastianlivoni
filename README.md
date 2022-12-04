@@ -8,7 +8,7 @@ struct Developer {
   let role = "Swift Frontend Developer"
   let location = "Denmark 🇩🇰"
   let languages = ["da_DK", "en_US"]
-  let skills = ["JavaScript", "Swift", "C"]
+  let skills = ["JavaScript", "Swift", "C", "C#"]
   
   func sayHi() {
     print("Hey, thanks for dropping by, feel free to have a look at my work!")
