@@ -20,7 +20,7 @@ me.sayHi()
 ```
 
 ## Highlights
-- [**Modular.gg**](https://github.com/jonasbove/modular.gg) A open-source visual interface for creating Discord bots inspired by visual programmering.
+- [**Modular.gg**](https://github.com/jonasbove/modular.gg): A open-source visual interface for creating Discord bots inspired by visual programmering.
 
 ## Links
 - **Website:** https://livoni.me
