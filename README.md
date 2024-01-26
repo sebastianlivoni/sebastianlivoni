@@ -20,7 +20,7 @@ me.sayHi()
 ```
 
 ## Highlights
-- [**Livoni.me**](https://github.com): My personal website.
+- [**livoni.me**](https://livoni.me): My personal website.
 
 ## Links
 - **Website:** https://livoni.me
