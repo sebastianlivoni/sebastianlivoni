@@ -20,7 +20,7 @@ me.sayHi()
 ```
 
 ## Highlights
-- [**Modular.gg**](https://github.com/jonasbove/modular.gg): A open-source visual interface for creating Discord bots inspired by visual programmering.
+- [**Livoni.me**](https://github.com): My personal website.
 
 ## Links
 - **Website:** https://livoni.me
