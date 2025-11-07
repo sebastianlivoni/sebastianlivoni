@@ -18,11 +18,3 @@ struct Developer {
 let me = Developer()
 me.sayHi()
 ```
-
-## Highlights
-- [**livoni.me**](https://livoni.me): My personal website.
-
-## Links
-- **Website:** https://livoni.me
-- **Blog:** https://livoni.me/blog
-- **Twitter:** [@sebastianlivoni](https://twitter.com/sebastianlivoni)
